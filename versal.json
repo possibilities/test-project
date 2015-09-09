@@ -1,0 +1,7 @@
+{
+  "launcher": "iframe",
+  "name": "test-project",
+  "version": "0.0.1",
+  "title": "Test project for gadget-tool",
+  "description": "Test project for gadget-tool"
+}
